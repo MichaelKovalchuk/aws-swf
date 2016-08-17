@@ -1,0 +1,7 @@
+machine:
+  node:
+    version: 6.2.2
+
+test:
+  post:
+    - NODE_ENV=test node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec

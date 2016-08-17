@@ -1,7 +1,7 @@
 # A Node.js library for accessing Amazon Simple Workflow (SWF)
 
 [![NPM version](https://badge.fury.io/js/aws-swf.png)](http://badge.fury.io/js/aws-swf)
-[![Build Status](https://travis-ci.org/neyric/aws-swf.png?branch=master)](https://travis-ci.org/neyric/aws-swf)
+[![CircleCI](https://circleci.com/gh/ktonon/aws-swf.svg?style=svg)](https://circleci.com/gh/ktonon/aws-swf)
 [![Coverage Status](https://coveralls.io/repos/neyric/aws-swf/badge.png?branch=master)](https://coveralls.io/r/neyric/aws-swf?branch=master)
 [![Code Climate](https://codeclimate.com/github/neyric/aws-swf.png)](https://codeclimate.com/github/neyric/aws-swf)
 
@@ -136,4 +136,3 @@ To send the coverage to coveralls, I run locally (I don't know why travis-ci aft
 
 * [aws-swf-toolkit](https://github.com/neyric/aws-swf-toolkit): Node.js Framework for workflows on Amazon SWF
 * [aws-swf-activities](https://github.com/neyric/aws-swf-activities): A collection of Node.js activity workers for Amazon SWF
-
